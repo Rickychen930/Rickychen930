@@ -103,6 +103,18 @@ Interactive study guides for MDPs, Dynamic Programming, Monte Carlo, TD learning
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickychen930&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 
+<img src="https://streak-stats.demolab.com?user=Rickychen930&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rickychen930&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
+</div>
+
+## 😄 Dev joke of the moment
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke (refreshes on every load)" />
+
 </div>
 
 ## 🌱 Currently
